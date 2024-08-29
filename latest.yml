@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - platform: win
+    url: https://your-server.com/updates/your-app-1.0.1.exe
+  - platform: mac
+    url: https://your-server.com/updates/your-app-1.0.1.dmg
+  - platform: linux
+    url: https://your-server.com/updates/your-app-1.0.1.AppImage
