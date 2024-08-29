@@ -1,4 +1,4 @@
-version: 1.0.1
+version: 3.0.3
 files:
   - platform: win
     url: https://your-server.com/updates/your-app-1.0.1.exe
