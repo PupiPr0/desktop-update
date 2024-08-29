@@ -1,4 +1,4 @@
-version: 3.0.3
+version: 4.0.3
 files:
   - platform: win
     url: https://github.com/PupiPr0/desktop-update/releases/download/v3.0.3/Dkon.Setup.3.0.3.exe
