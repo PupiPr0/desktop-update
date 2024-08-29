@@ -1,8 +1,8 @@
 version: 3.0.3
 files:
   - platform: win
-    url: https://your-server.com/updates/your-app-1.0.1.exe
+    url: https://github.com/PupiPr0/desktop-update/releases/download/v3.0.3/Dkon.Setup.3.0.3.exe
   - platform: mac
-    url: https://your-server.com/updates/your-app-1.0.1.dmg
+    url: https://github.com/PupiPr0/desktop-update/releases/download/v3.0.3/Dkon-3.0.3.dmg
   - platform: linux
-    url: https://your-server.com/updates/your-app-1.0.1.AppImage
+    url: https://github.com/PupiPr0/desktop-update/releases/download/v3.0.3/Dkon-3.0.3.AppImage
